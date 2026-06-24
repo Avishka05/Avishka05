@@ -97,6 +97,7 @@ non-compliant consent flows and unauthorized third-party data sharing.
 A decentralized peer-to-peer messaging application built on a pure IPv6 architecture, 
 with Post-Quantum Cryptography mechanisms for secure message exchange in a low-latency 
 environment.
+
 ---
 
 ## Experience
